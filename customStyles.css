@@ -1,4 +1,7 @@
 /*CSS file to adjust for clashes between vendor and theme CSS and Bootstrap CSS*/
+#marginMakingDiv{
+  margin-top: 6rem
+}
 .alert:not(.pattern-library-shim){
 color: var(--bs-alert-color) !important;
 margin-bottom: var(--bs-alert-margin-bottom) !important;  
