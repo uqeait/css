@@ -2,6 +2,9 @@
 #marginMakingDiv{
   margin-top: 6rem
 }
+.top-6{
+  top: 6rem;
+}
 .alert:not(.pattern-library-shim){
 color: var(--bs-alert-color) !important;
 margin-bottom: var(--bs-alert-margin-bottom) !important;  
@@ -201,4 +204,7 @@ background-image: url('/uqlearnx/img/white_report.png');
 }
 .icon-globe-black{
   background-image: url('/uqlearnx/img/world-black.png')
+}
+.lower-alpha {
+  list-style-type: lower-alpha;
 }
